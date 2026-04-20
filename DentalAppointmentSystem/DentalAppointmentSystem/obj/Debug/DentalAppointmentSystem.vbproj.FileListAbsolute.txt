@@ -1,0 +1,8 @@
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\bin\DentalAppointmentSystem.dll
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\bin\DentalAppointmentSystem.pdb
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\bin\DentalAppointmentSystem.xml
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\obj\Debug\DentalAppointmentSystem.Resources.resources
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\obj\Debug\DentalAppointmentSystem.vbproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\obj\Debug\DentalAppointmentSystem.dll
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\obj\Debug\DentalAppointmentSystem.xml
+c:\users\brian\documents\visual studio 2010\Projects\DentalAppointmentSystem\DentalAppointmentSystem\obj\Debug\DentalAppointmentSystem.pdb
